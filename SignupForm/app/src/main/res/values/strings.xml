@@ -13,5 +13,7 @@
     <string name="password_hint">Please enter password here</string>
     <string name="password_confirm_label">Confirm</string>
     <string name="password_confirm_hint">Please enter password again here</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="welcome_format">Welcome, %1$s!</string>
 
 </resources>
